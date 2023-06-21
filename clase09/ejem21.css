@@ -1,0 +1,16 @@
+.a{
+   border-bottom:  2px solid #00f;
+
+
+}
+.b{
+    border:  2px solid #AAA;
+}
+.c{
+    border-bottom:  4px dotted #F00;
+    border-top:  4px dotted #F00 ;
+}
+.d{
+    border-bottom: 2px dashed #0F0 ;
+    border-top:  2px dashed #0F0 ;
+}
