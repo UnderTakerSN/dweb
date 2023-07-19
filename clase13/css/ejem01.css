@@ -1,0 +1,67 @@
+.caja1{
+    border: 1px solid rgb(31, 70, 179);
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(31, 70, 179);
+    color: white;
+    width: 500px;
+    height: 24px;
+    margin: auto;
+}
+.caja2{
+    border: 1px solid  rgb(31, 70, 179);
+    border-radius: 5px;
+    text-align: center;
+    background-color:  rgb(31, 70, 179);
+    color: white;
+    width: 500px;
+    height: 24px;
+    margin: 5px auto;
+    
+}
+.caja3{
+    border: 1px solid  rgb(31, 70, 179);
+    border-radius: 10px;
+    margin: 5px auto;
+    width: 280px;
+    height: 145px;
+    background-color: rgb(31, 70, 179);
+    margin-left: 5px;
+    text-align: center;
+    color: white;
+}
+.caja4{
+    border: 1px solid   rgb(9, 24, 65);
+    border-radius: 10px;
+    margin:15px ;
+    width: 270px;
+    height: 100px;
+    background-color: rgb(9, 24, 65);
+    margin-left: 4px;
+}
+.tabla{
+    border: 1px solid white;
+    height: 160px;
+    width: 500px;
+    margin:  auto;
+    border-radius: 10px;
+    background-color: white;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+
+}
+.caja5{
+    border: 1px solid   rgb(9, 24, 65);
+    border-radius: 10px;
+    margin:15px ;
+    width: 200px;
+    height: 145px;
+    background-color: rgb(9, 24, 65);
+    color: white;
+   margin-left: 287px;
+   margin-top: -152px;
+   text-align: center;
+   margin-right: 5px;
+}
